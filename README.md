@@ -18,7 +18,4 @@ Abaixo encontra-se a lista dos TPCs desenvolvidos, incluíndo o respetivo tópic
 
 ## Autor
 
-<div style="top:0; left:0; display: flex; justify-content: left; align-items: end; gap: 1rem; flex-direction: row;">
-    <img alt="Author Photo" src=".assets/A93210.jpg" width="50" height="50"> 
-    <p> Beatriz Ribeiro Terra Almeida (A93210)</p>
-</div>
+<img alt="Author Photo" src=".assets/A93210.jpg" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp;  Beatriz Ribeiro Terra Almeida (A93210) 
