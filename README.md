@@ -1,13 +1,12 @@
 # Repositório TPCs PL - 2025
 
-
 Repositório para os TPCs de Programação de Linguagens (PL) relativos ao ano letivo de 2024/2025.
 
 ## Lista dos TPCs
 
 Abaixo encontra-se a lista dos TPCs desenvolvidos, incluíndo o respetivo tópico e conceitos teórico-práticos aplicados ( entre parêntesis retos - \[ \] ).
 
-1. TPC1 - "título" \[conceitos here\]
+1. TPC1 - "Somador On/Off" \[Introdução a Python\]
 2. TPC2 - "título" \[conceitos here\]
 3. TPC3 - "título" \[conceitos here\]
 4. TPC4 - "título" \[conceitos here\]
@@ -18,4 +17,4 @@ Abaixo encontra-se a lista dos TPCs desenvolvidos, incluíndo o respetivo tópic
 
 ## Autor
 
-<img alt="Author Photo" src=".assets/A93210.jpg" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp;  Beatriz Ribeiro Terra Almeida (A93210) 
+<img alt="Author Photo" src=".assets/A93210.jpg" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp; Beatriz Ribeiro Terra Almeida (A93210)
