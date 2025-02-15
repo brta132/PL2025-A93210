@@ -6,8 +6,8 @@ Repositório para os TPCs de Programação de Linguagens (PL) relativos ao ano l
 
 Abaixo encontra-se a lista dos TPCs desenvolvidos, incluíndo o respetivo tópico e conceitos teórico-práticos aplicados ( entre parêntesis retos - \[ \] ).
 
-1. TPC1 - "Somador On/Off" \[Introdução a Python\]
-2. TPC2 - "título" \[conceitos here\]
+1. TPC1 - **"Somador On/Off"** \[Introdução a Python\]
+2. TPC2 - **"Análise de um Dataset de Obras Musicais"** \[Expressões Regulares, _Parsing_ de um ficheiro _.CSV_\]
 3. TPC3 - "título" \[conceitos here\]
 4. TPC4 - "título" \[conceitos here\]
 5. TPC5 - "título" \[conceitos here\]
