@@ -8,8 +8,8 @@ Abaixo encontra-se a lista dos TPCs desenvolvidos, incluíndo o respetivo tópic
 
 1. TPC1 - **"Somador On/Off"** \[Introdução a Python\]
 2. TPC2 - **"Análise de um Dataset de Obras Musicais"** \[Expressões Regulares, _Parsing_ de um ficheiro _.CSV_\]
-3. TPC3 - "título" \[conceitos here\]
-4. TPC4 - "título" \[conceitos here\]
+3. TPC3 - **"Conversor de MarkDown para HTML"** \[Expressões Regulares com Grupos de Captura\]
+4. TPC4 - **"Analisador Léxico"** \[PLY.Lex\]
 5. TPC5 - "título" \[conceitos here\]
 6. TPC6 - "título" \[conceitos here\]
 7. TPC7 - "título" \[conceitos here\]
