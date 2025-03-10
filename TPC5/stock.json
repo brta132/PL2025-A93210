@@ -1,0 +1,28 @@
+{
+    "stock": [
+        {
+            "cod": "A11",
+            "nome": "\u00e1gua 2L",
+            "preco": "2.5",
+            "quant": 20
+        },
+        {
+            "cod": "B22",
+            "nome": "Brigadeiro",
+            "preco": "4.85",
+            "quant": 0
+        },
+        {
+            "cod": "C12",
+            "nome": "Croissant Misto",
+            "preco": "0.7",
+            "quant": 13
+        },
+        {
+            "cod": "D13",
+            "nome": "gomas (20g)",
+            "preco": "1.75",
+            "quant": "5"
+        }
+    ]
+}

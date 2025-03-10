@@ -10,7 +10,7 @@ Abaixo encontra-se a lista dos TPCs desenvolvidos, incluíndo o respetivo tópic
 2. TPC2 - **"Análise de um Dataset de Obras Musicais"** \[Expressões Regulares, _Parsing_ de um ficheiro _.CSV_\]
 3. TPC3 - **"Conversor de MarkDown para HTML"** \[Expressões Regulares com Grupos de Captura\]
 4. TPC4 - **"Analisador Léxico"** \[PLY.Lex\]
-5. TPC5 - "título" \[conceitos here\]
+5. TPC5 - **"Máquina de Vending"** \[Analisador léxico sem usar PLY.Lex\]
 6. TPC6 - "título" \[conceitos here\]
 7. TPC7 - "título" \[conceitos here\]
 8. TPC8 - "título" \[conceitos here\]
