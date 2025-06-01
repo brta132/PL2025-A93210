@@ -11,9 +11,13 @@ Abaixo encontra-se a lista dos TPCs desenvolvidos, incluíndo o respetivo tópic
 3. TPC3 - **"Conversor de MarkDown para HTML"** \[Expressões Regulares com Grupos de Captura\]
 4. TPC4 - **"Analisador Léxico"** \[PLY.Lex\]
 5. TPC5 - **"Máquina de Vending"** \[Analisador léxico sem usar PLY.Lex\]
-6. TPC6 - "título" \[conceitos here\]
+6. TPC6 - **"Recursivo Descendente para expressões aritméticas"** \[Analisador léxico e analisador sintático\]
 7. TPC7 - "título" \[conceitos here\]
 8. TPC8 - "título" \[conceitos here\]
+
+## Projeto - Compilador
+
+Compilador de código Pascal para código da máquina virtual (VM) da cadeira.
 
 ## Autor
 
